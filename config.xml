@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="ee.tlu.hk.priidu.simplecalc" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>helloworld</name>
+    <name>Simple Calc</name>
     <description>
-        A blank PhoneGap app.
+        A simple PhoneGap calculator app.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="priidu@tlu.ee" href="https://hkdt.neolms.com">
+        Priidu Paomets
     </author>
     <content src="index.html" />
     <access origin="*" />
 </widget>
+    
